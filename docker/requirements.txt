@@ -1,0 +1,4 @@
+meinheld==1.0.2
+gunicorn==21.2.0
+flask==3.0.2
+paho-mqtt==2.0.0
