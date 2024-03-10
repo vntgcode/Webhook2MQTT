@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: vntgcode/webhook2mqtt:latest
+          tags: ghcr.io/vntgcode/webhook2mqtt:latest
