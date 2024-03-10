@@ -18,3 +18,7 @@ iIt is strongly suggested to put some reverse-proxy ahead of your installation.
 ## Architecture
 
 Pretty simple - a flask app initiating a new thread to forward the expected json object to mqtt.
+
+
+## Testing
+22:33
